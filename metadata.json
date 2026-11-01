@@ -1,0 +1,6 @@
+{
+  "name": "Hold Chapter 3",
+  "description": "Persuade the Annoying Dog to rebalance Undertale and Deltarune before releasing Chapter 3 in this satirical parody clicker!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
